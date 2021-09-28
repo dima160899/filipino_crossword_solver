@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\admin\source\repos\lab4\lab4\main.cpp(39): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\lab4\lab4\main.cpp(44): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+c:\users\admin\source\repos\lab4\lab4\main.cpp(62): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\source\repos\lab4\lab4\main.cpp(67): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  lab4.vcxproj -> C:\Users\admin\source\repos\lab4\Debug\lab4.exe
